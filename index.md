@@ -8,3 +8,6 @@ Messed with the index.md file to see what's up.
 n1=input("enter a message")
 print(n1)
 ```
+- [ ] Me a baller
+- [ ] A little bit taller
+- [x] Ill call her
