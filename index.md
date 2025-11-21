@@ -2,5 +2,6 @@
 
 Messed with the index.md file to see what's up.
 
-![Red Panda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRed_panda&psig=AOvVaw1TDif-HxeGdbxFWIgdUeef&ust=1763791898891000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjF8v7KgpEDFQAAAAAdAAAAABAL)
+![Red Panda](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/500px-Red_Panda_%2824986761703%29.jpg)
+
 
